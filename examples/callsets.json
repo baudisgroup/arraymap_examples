@@ -1,0 +1,5150 @@
+[
+    {
+        "biosample_id": "PGX_AM_BS_GSM213840",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213840",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213846",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213846",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213848",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213848",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213853",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213853",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213854",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213854",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213856",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213856",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213858",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213858",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213862",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213862",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213863",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213863",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213870",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213870",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213871",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213871",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213873",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213873",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213875",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213875",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213876",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213876",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213881",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213881",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213889",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213889",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213891",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213891",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213892",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213892",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213895",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213895",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213897",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213897",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213900",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213900",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213901",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213901",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213902",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213902",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213904",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213904",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213905",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213905",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM213909",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "DKFZ Homo sapiens array-CGH 6k BAC array",
+        "geo_provenance": {
+            "city": "Heidelberg",
+            "country": "Germany",
+            "label": "Heidelberg, Germany",
+            "latitude": 49.41,
+            "longitude": 8.69,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8634::GSM213909",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217396",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217396",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217397",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217397",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217398",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217398",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217399",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217399",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217400",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217400",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217401",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217401",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217402",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217402",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217403",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217403",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217404",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217404",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217405",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217405",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217406",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217406",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217407",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217407",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217408",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217408",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217409",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217409",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217410",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217410",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217411",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217411",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217412",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217412",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217413",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217413",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217414",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217414",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217415",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217415",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217416",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217416",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217417",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217417",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217418",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217418",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217419",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217419",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217420",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217420",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217421",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217421",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217422",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217422",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217423",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217423",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217424",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217424",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217425",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217425",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217426",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217426",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217427",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217427",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217428",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217428",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217429",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217429",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217430",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217430",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217431",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217431",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217433",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217433",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217434",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217434",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217435",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217435",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217436",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217436",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217437",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217437",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217438",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217438",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217439",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217439",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217440",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217440",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217442",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217442",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217443",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217443",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217444",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217444",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217445",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217445",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217446",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217446",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217447",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217447",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217448",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217448",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217449",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217449",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217450",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217450",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217451",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217451",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217452",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217452",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217453",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217453",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217454",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217454",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217455",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217455",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217456",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217456",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217457",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217457",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217458",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217458",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217459",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217459",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217460",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217460",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217461",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217461",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217462",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217462",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217463",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217463",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217464",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217464",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217465",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217465",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217466",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217466",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217467",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217467",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217468",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217468",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217469",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217469",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217470",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217470",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217471",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217471",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217472",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217472",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217474",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217474",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217475",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217475",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217476",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217476",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217477",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217477",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217478",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217478",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217479",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217479",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217480",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217480",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217481",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217481",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217482",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217482",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217483",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217483",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217484",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217484",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217485",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217485",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217486",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217486",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217487",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217487",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217488",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217488",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217489",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217489",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217491",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217491",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217492",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217492",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217493",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217493",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217494",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217494",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217495",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217495",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217496",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217496",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217497",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217497",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217498",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217498",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217499",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217499",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217500",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217500",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217501",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217501",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217502",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217502",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217503",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217503",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217504",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217504",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217505",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217505",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217506",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217506",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217507",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217507",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217508",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217508",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217509",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217509",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217510",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217510",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217511",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217511",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217512",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217512",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217513",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217513",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217514",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217514",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217515",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217515",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217516",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217516",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217517",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217517",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217518",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217518",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217519",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217519",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217520",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217520",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217521",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217521",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217522",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217522",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217523",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217523",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217524",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217524",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217525",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217525",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217526",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217526",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217527",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217527",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217528",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217528",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217529",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217529",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217530",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217530",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217531",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217531",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217532",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217532",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217533",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217533",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217534",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217534",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217535",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217535",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217536",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217536",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217537",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217537",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217538",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217538",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217539",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217539",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217540",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217540",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217541",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217541",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217542",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217542",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217543",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217543",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217544",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217544",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217545",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217545",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217546",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217546",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217547",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217547",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217548",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217548",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217549",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217549",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217550",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217550",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217551",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217551",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217552",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217552",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217553",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217553",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217554",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217554",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217555",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217555",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217556",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217556",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217557",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217557",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217558",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217558",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217559",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217559",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217560",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217560",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217561",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217561",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217562",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217562",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217563",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217563",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217564",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217564",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217565",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217565",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM217566",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "Human 30K 60-mer oligo array",
+        "geo_provenance": {
+            "city": "London",
+            "country": "United Kingdom",
+            "label": "London, United Kingdom",
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE8757::GSM217566",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288035",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288035",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288037",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288037",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288039",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288039",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288041",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288041",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288043",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288043",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288045",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288045",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288047",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288047",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288049",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288049",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288051",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288051",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288053",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288053",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288055",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288055",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288057",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288057",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288059",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288059",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288063",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288063",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288065",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288065",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288067",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288067",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288069",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288069",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288071",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288071",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288073",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288073",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288075",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288075",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288077",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288077",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288079",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288079",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288081",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288081",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288083",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288083",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288085",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288085",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288087",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288087",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288089",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288089",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288091",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288091",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288093",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288093",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288095",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288095",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288097",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288097",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288099",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288099",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288101",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288101",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288103",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288103",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288105",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288105",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288107",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288107",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288109",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288109",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288111",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288111",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288113",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288113",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288115",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288115",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288117",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288117",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288119",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288119",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288121",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288121",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288123",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288123",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288125",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288125",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288127",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288127",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288129",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288129",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288131",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288131",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288133",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288133",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288135",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288135",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288137",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288137",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288139",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288139",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288141",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288141",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288143",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288143",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288145",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288145",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288147",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288147",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288149",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288149",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288151",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288151",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288153",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288153",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288155",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288155",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288157",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288157",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288159",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288159",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288161",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288161",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288163",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288163",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288165",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288165",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288167",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288167",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288169",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288169",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288171",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288171",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288173",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288173",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288175",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288175",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288177",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288177",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288179",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288179",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288181",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288181",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288183",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288183",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288185",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288185",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288187",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288187",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288189",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288189",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288191",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288191",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288193",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288193",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288195",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288195",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288197",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288197",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288199",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288199",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288201",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288201",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288203",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288203",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288205",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288205",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288207",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288207",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288209",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288209",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288211",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288211",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288213",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288213",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288215",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288215",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288217",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288217",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288219",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288219",
+        "info": {}
+    },
+    {
+        "biosample_id": "PGX_AM_BS_GSM288221",
+        "data_use_conditions": {
+            "id": "DUO:0000004",
+            "label": "no restriction"
+        },
+        "description": "[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array",
+        "geo_provenance": {
+            "city": "Shimotsuke-shi",
+            "country": "Japan",
+            "label": "Shimotsuke-shi, Japan",
+            "latitude": 36.4,
+            "longitude": 139.85,
+            "precision": "city"
+        },
+        "id": "pgxcs::GSE11417::GSM288221",
+        "info": {}
+    }
+]
